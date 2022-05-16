@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_xiaomi_mithorium-common",
+    "repository": "device_xiaomi_Mi439-common",
     "target_path": "device/xiaomi/mithorium-common"
   }
 ]
